@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "labicha.moc",
+		"Textures": [
+			"labicha.2048/texture_00.png"
+		],
+		"DisplayInfo": "labicha.cdi.json"
+	}
+}
